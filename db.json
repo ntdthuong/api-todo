@@ -1,0 +1,32 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "text": "Task 1",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "text": "Task 2",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "text": "Task 3",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "text": "Task 4",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "text": "Task 5",
+      "isDone": true
+    }
+  ],
+  "filterMode": {
+    "value": "all"
+  }
+}
