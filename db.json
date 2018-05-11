@@ -26,22 +26,22 @@
           "isDone": true
       },
       {
-          "id": "345.6270524273306abc",
+          "id": "6",
           "text": "Task 6",
           "isDone": false
       },
       {
-          "id": "147.8011679993576abc",
+          "id": "7",
           "text": "Task 7",
           "isDone": true
       },
       {
-          "id": "744.5655962533051abc",
+          "id": "8",
           "text": "Task 8",
           "isDone": false
       },
       {
-          "id": "607.8212678666921abc",
+          "id": "9",
           "text": "Task 9",
           "isDone": true
       }
