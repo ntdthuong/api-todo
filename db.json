@@ -1,32 +1,52 @@
 {
   "list": [
-    {
-      "id": 1,
-      "text": "Task 1",
-      "isDone": true
-    },
-    {
-      "id": 2,
-      "text": "Task 2",
-      "isDone": false
-    },
-    {
-      "id": 3,
-      "text": "Task 3",
-      "isDone": true
-    },
-    {
-      "id": 4,
-      "text": "Task 4",
-      "isDone": false
-    },
-    {
-      "id": 5,
-      "text": "Task 5",
-      "isDone": true
-    }
+      {
+          "id": 1,
+          "text": "Task 1",
+          "isDone": true
+      },
+      {
+          "id": 2,
+          "text": "Task 2",
+          "isDone": false
+      },
+      {
+          "id": 3,
+          "text": "Task 3",
+          "isDone": true
+      },
+      {
+          "id": 4,
+          "text": "Task 4",
+          "isDone": false
+      },
+      {
+          "id": 5,
+          "text": "Task 5",
+          "isDone": true
+      },
+      {
+          "id": "345.6270524273306abc",
+          "text": "Task 6",
+          "isDone": false
+      },
+      {
+          "id": "147.8011679993576abc",
+          "text": "Task 7",
+          "isDone": true
+      },
+      {
+          "id": "744.5655962533051abc",
+          "text": "Task 8",
+          "isDone": false
+      },
+      {
+          "id": "607.8212678666921abc",
+          "text": "Task 9",
+          "isDone": true
+      }
   ],
   "filterMode": {
-    "value": "all"
+      "value": "SHOW_ALL"
   }
 }
